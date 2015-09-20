@@ -13,7 +13,7 @@ Resources:
 
 Requirements:
 Godot is a free and open source game engine, so there are not costs assoicated with using Godot.  
-Students will need to have a Windows, Mac, or Linux laptop.
+**Students will need to have a Windows, Mac, or Linux laptop.**
 
 ## The Format
 
