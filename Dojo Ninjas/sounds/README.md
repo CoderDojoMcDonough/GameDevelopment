@@ -1,4 +1,4 @@
-sounds.txt
+Sounds:
 
 
 	# Sample players are used for sound effects (.WAV)
