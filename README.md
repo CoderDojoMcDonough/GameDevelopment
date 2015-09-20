@@ -9,7 +9,7 @@ Resources:
 * [Introduction to Programming](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/coderdojo_learn.pdf) (PDF)
 * [Game Development Learning Guide](https://github.com/TutorialDoctor/Software_Development)
 
-* [Additonal Game Development Resource Links](Game%20Development%20Resources.md)
+* [Additonal Game Development Resource Links](https://github.com/CoderDojoMcDonough/Documentation/blob/master/Exploratory_Sessions/Game%20Development%20Resources.md)
 
 Requirements:
 Godot is a free and open source game engine, so there are not costs assoicated with using Godot.  
