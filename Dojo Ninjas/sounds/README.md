@@ -11,27 +11,3 @@ Sounds:
 	# Audacity can be used to convert to the prefered formats
 	# Usage: play()
 
-
-Voice:
-
-	Welcome
-	On
-	Off
-	Game Over
-	Continue?
-
-
-	I see it
-	I hear it
-	I feel it
-	I smell it
-	I taste it
-
-	Wrong way
-	You are under attack
-	Your inventory is empty
-	Your inventory is full
-
-	Go
-	Stop
-
