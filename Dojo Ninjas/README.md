@@ -1,31 +1,4 @@
-# Godot Intro
+**Dojo Ninjas** is a collaborative game made with the [Godot Game Engine](http://www.godotengine.org/projects/godot-engine) by the [Coder Dojo Ninjas of McDonough](https://github.com/CoderDojoMcDonough). 
 
-## Initial steps
-1. Create a project folder and asset folders
-	- 2D assets:
-		- levels
-		- scripts
-		- sounds
-		- sprites
-		- fonts
-		- shaders
-		- video
-	
-	- 3D assets:
-		- levels
-		- scripts
-		- sounds
-		- meshes
-		- maps(textures)
-		- fonts
-		- shaders
-		- video
-		
-2. Create a new project in the folder and open it
-3. Create a root node (needed)
-	- Node2D (2D levels)
-	- Spatial (3D levels)
-	- Control (GUI)
-4. Save the scene (XML)
-5. Set the main scene in project settings
+It is currently a work in progress. 
 
