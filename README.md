@@ -20,7 +20,7 @@ Godot is a free and open source game engine, so there are not costs assoicated w
 ### Learn (1hr)
 Objectives:
 
-- Learn the basics of computer programming using Python
+- Learn the basics of computer programming using ~~Python~~ Godot
 	- 	Variables
 	-  Functions
 	-  Conditionals
