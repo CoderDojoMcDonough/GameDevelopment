@@ -109,9 +109,9 @@ Coming soon...
 Coming soon...
 
 # Video Tutorials
-- [Game From Scratch]()
-- [Andy]()
-- [Tractor Trouble]()
+- ~~[Game From Scratch]()~~
+- ~~[Andy]()~~
+- ~~[Tractor Trouble]()~~
 
 # Demos To Preview
 - Floppy Bird
