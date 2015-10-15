@@ -11,7 +11,7 @@ Resources:
 
 * [Additonal Game Development Resource Links](https://github.com/CoderDojoMcDonough/Documentation/blob/master/Exploratory_Sessions/Game%20Development%20Resources.md)
 
-Included in this repository is a demo game using the Godot Game engine called "Dojo Ninjas." Download this repository to test it out.
+Included in this repository is a demo game using the Godot Game engine called ["Dojo Ninjas."](https://github.com/CoderDojoMcDonough/GameDevelopment/tree/master/Dojo%20Ninjas) Download this repository to test it out.
 
 Requirements:
 Godot is a free and open source game engine, so there are not costs assoicated with using Godot.  
